@@ -3,3 +3,5 @@ from .models import post
 
 # Register your models here.
 admin.site.register(post)
+# admin.site.register(Comment)
+
